@@ -38,7 +38,7 @@ author:
   arxiv            : "https://arxiv.org/a/kamlesh_d_1"
   googlescholar    : "https://scholar.google.com/citations?user=Gpo7ACkAAAAJ"
   inspire-hep      : "https://inspirehep.net/authors/2729278"
-  orcid            : "https://orcid.org/0000-0001-7232-6147"
+  #orcid            : "https://orcid.org/0000-0001-7232-6147"
 
 
   # Repositories and software development
