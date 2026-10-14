@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Theoretical Mathematician specialising in Arithmetic Geometry, Number Theory and Mathematical Physics"
   location         : "Bonn, Germany"
-  employer         : "Max Planck Institute for Mathematics "
+  #employer         : " "
   uri              : "https://deltaq6.github.io/"
   email            : "kamlesh@mpim-bonn.mpg.de" 
 
@@ -50,7 +50,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
