@@ -166,6 +166,10 @@ exclude:
   - .bundle
   - .github
   - .jekyll-assets-cache
+  - assets/css/         
+  - assets/fonts/      
+  - assets/js/          
+  - assets/webfonts/
   - .sass-cache
   - assets/js/_main.js
   - assets/js/plugins
