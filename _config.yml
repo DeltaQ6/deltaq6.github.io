@@ -30,15 +30,15 @@ author:
   bio              : "Theoretical Mathematician specialising in Arithmetic Geometry, Number Theory and Mathematical Physics"
   location         : "Bonn, Germany"
   #employer         : " "
-  #uri              : "https://deltaq6.github.io/"
-  email            : "kamlesh@mpim-bonn.mpg.de" 
+  uri              : "https://deltaq6.github.io/"
+  email            : "deepakkamlesh6@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : "https://arxiv.org/a/kamlesh_d_1"
   googlescholar    : "https://scholar.google.com/citations?user=Gpo7ACkAAAAJ"
   inspire-hep      : "https://inspirehep.net/authors/2729278"
-  #orcid            : "https://orcid.org/0000-0001-7232-6147"
+  orcid            : "https://orcid.org/0000-0001-7232-6147"
 
 
   # Repositories and software development
